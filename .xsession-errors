@@ -1,0 +1,111 @@
+/usrhome/ISM17/c501737027/.xprofile: 3 行: [: `]'がありません
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+
+(gsettings-data-convert:2849): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+
+(gsettings-data-convert:2849): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-left' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-right' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-up' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-down' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'show-desktop' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'panel-main-menu' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'panel-run-dialog' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'toggle-maximized' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'maximize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'unmaximize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'toggle-shaded' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'minimize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-left' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-right' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-up' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2849): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-down' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gnome-settings-daemon:2853): power-plugin-WARNING **: gnome-session is not available
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing composite options...done
+Initializing opengl options...done
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+Initializing grid options...done
+** Message: applet now removed from the notification area
+I/O warning : failed to load external entity "/usrhome/ISM17/c501737027/.compiz/session/101104b7afed527f4115087209154793800000027610037"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+** Message: using fallback from indicator to GtkStatusIcon
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+
+(compiz:2876): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+
+** (gnome-settings-daemon:2853): CRITICAL **: setup_bg: assertion `manager->priv->bg == NULL' failed
+
+(gnome-settings-daemon:2853): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+No LSB modules are available.
+Initializing unityshell options...done
+
+(gnome-settings-daemon:2853): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+Setting Update "main_menu_key"
+Setting Update "run_key"
+** Message: moving back from GtkStatusIcon to indicator
+
+** (zeitgeist-datahub:3870): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+** (gnome-screensaver:3871): WARNING **: このセッションで既にスクリーンセーバーが実行中です
+
+(gnome-settings-daemon:2853): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+ImportError: No module named pygtk
+
+(gnome-settings-daemon:2853): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+[8274:8274:1023/105108:ERROR:extension_downloader.cc(695)] Invalid URL: '' for extension coobgpohoikkiipiblmjeljniedjpjpf
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+Fontconfig error: Cannot load default config file
+getrlimit(RLIMIT_NOFILE) failed
+[8274:8380:1023/105123:ERROR:channel.cc(299)] RawChannel read error (connection broken)
+[8274:8380:1023/105134:ERROR:channel.cc(299)] RawChannel read error (connection broken)
+getrlimit(RLIMIT_NOFILE) failed
+[8274:8380:1023/105134:ERROR:channel.cc(299)] RawChannel read error (connection broken)
+[8274:8380:1023/105134:ERROR:channel.cc(299)] RawChannel read error (connection broken)
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' がエラー 255 を返しました: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error そのようなファイルやディレクトリはありません
+Please ask your system administrator to enable user sharing.
+
